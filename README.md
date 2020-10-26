@@ -11,7 +11,7 @@ I'm a Full-stack Software Developer and IOT Enthusiast!
 
 ### Connect with me:
 [![Twitter][1.2]][1]
-[![Instagram][1.3]][1]
+[![Instagram][1.3]][2]
 
 <!-- Icons -->
 
