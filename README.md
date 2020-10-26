@@ -15,3 +15,4 @@ I'm a Full-stack Software Developer and IOT Enthusiast!
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=chiragbadhe">
