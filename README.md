@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blockchain and IOT**
 - 👯 I’m looking to collaborate with **other developers**
-- 👨‍💻 All of my projects are available at [www.chiragbadhe.com](www.chiragbadhe.com)
+- 👨‍💻 All of my projects are available at [www.chiragbadhe.com](https://chiragbadhe.com/projects.html)
 - 💬 Ask me about **iot**
 - 📫 How to reach me **badhechirag633@gmail.com**
 - ⚡ Fun fact **I love watching movies**
