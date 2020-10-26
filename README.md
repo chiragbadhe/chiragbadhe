@@ -10,8 +10,6 @@ I'm a Full-stack Software Developer and IOT Enthusiast!
 - ⚡ Fun fact: I love watching movies
 
 ### Connect with me:
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
