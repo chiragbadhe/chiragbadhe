@@ -16,7 +16,7 @@ I'm a Full-stack Software Developer and IOT Enthusiast!
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.2]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg (twitter icon without padding)
+[1.3]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg (twitter icon without padding)
 
 <!-- Links to your social media accounts -->
 
