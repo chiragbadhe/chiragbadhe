@@ -1,25 +1,43 @@
-## Hi 👋, I'm Chirag</h1>
-#### Passionate Full-stack Software Developer and IOT Enthusiast!
+<h1 align="center">Hi 👋, I'm Chirag Badhe</h1>
 
-- 🔭 I’m currently working on **Blockchain and IOT**
-- 👯 I’m looking to collaborate with **other developers**
-- 👨‍💻 All of my projects are available at [www.chiragbadhe.com](https://chiragbadhe.com/projects.html)
-- 💬 Ask me about **iot**
-- 📫 How to reach me **badhechirag633@gmail.com**
-- ⚡ Fun fact **I love watching movies**
+</br>
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)">
+</br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/badhechirag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="badhechirag" height="20" width="30" /></a>
-<a href="https://instagram.com/chirag.rar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chirag.rar" height="20" width="30" /></a>
-<a href="https://dribbble.com/chiragbadhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="chiragbadhe" height="20" width="30" /></a>
-<a href="https://medium.com/@chiragsbaddhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chiragsbaddhe" height="20" width="30" /></a>
-<a href="https://www.youtube.com/c/chirag badhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="chirag badhe" height="20" width="30" /></a>
-<a href="https://www.hackerearth.com/@chirag490" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@chirag490" height="20" width="30" /></a>
-</p>
+## <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)" width="30"> **About Me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="25" height="25"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="25" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="25" height="25"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="25" height="25"/> </a>   </p>
+I'm a blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi, Internet of Things (Iot) and Arduino
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragbadhe&show_icons=true&locale=en" alt="chiragabdhe" /></p>
+## 🛠️ **Languages & Tools:**
+
+![https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+
+![https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+[https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+
+[https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js](https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js)
+
+[https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+
+[https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
+
+![https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+
+[https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
+
+[https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
+
+![https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+[https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+
+## 📈 **Github Stats:**
+
+<a href="[https://github.com/chiragbadhe](https://github.com/chiragbadhe)">
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=kaushik-rishi&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true](https://github-readme-stats.vercel.app/api?username=kaushik-rishi&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true)">
+</a>
+<a href="[https://github.com/chiragbadhe/github-readme-stats](https://github.com/chiragbadhe/github-readme-stats)">
+<img align="center" src="[https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaushik-rishi&layout=Demo&theme=blue-green](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaushik-rishi&layout=Demo&theme=blue-green)" />
+</a>
 
