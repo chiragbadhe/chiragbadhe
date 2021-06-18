@@ -7,7 +7,7 @@
 
 ## &nbsp;💁‍♂️ **About Me**
 
-Hello, I’m Chirag, I'm a blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi, Internet of Things (Iot), Arduino also like making electronics gadgets.
+Hello, I’m Chirag, I'm a full-stack developer and blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi.
 
 ## 🛠️  **Languages & Tools:**
 
