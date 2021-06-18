@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp;<img src="https://giphy.com/gifs/crab-pikaole-knife-UevalSWg5twQeqpc8Q" width="30">**About Me**
+## &nbsp;<img src="https://dribbble.com/shots/6587273-Typing-Away/attachments/6587273-Typing-Away?mode=media" width="30">**About Me**
 
 Hello, I’m Chirag Badhe, I'm a blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi, Internet of Things (Iot), Arduino also like making electronics gadgets.
 
