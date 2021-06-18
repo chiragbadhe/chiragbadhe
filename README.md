@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**About Me**
 
 Hello, I’m Chirag Badhe, I'm a blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi, Internet of Things (Iot), Arduino also like making electronics gadgets.
 
@@ -18,8 +18,8 @@ Hello, I’m Chirag Badhe, I'm a blockchain enthusiast. I'm fascinated with the 
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 
 ![Vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue)
-![Nuxt](https://img.shields.io/badge/-Nuxt-brightgreen?style=for-the-badge&logo=nuxt)
-![tailwind](https://img.shields.io/badge/-Tailwind-brightgreen?style=for-the-badge&logo=tailwind)
+![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=for-the-badge&logo=nuxt)
+![tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge&logo=tailwind)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
