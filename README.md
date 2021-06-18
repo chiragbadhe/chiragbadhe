@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Chirag Badhe</h1>
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </br>
 
-## &nbsp;<img src="https://dribbble.com/shots/6587273-Typing-Away/attachments/6587273-Typing-Away?mode=media" width="30">**About Me**
+## &nbsp;💁‍♂️ **About Me**
 
 Hello, I’m Chirag Badhe, I'm a blockchain enthusiast. I'm fascinated with the concept of "programmable money" and love to experiment with DeFi, Internet of Things (Iot), Arduino also like making electronics gadgets.
 
-## 🛠️ **Languages & Tools:**
+## 🛠️  **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
