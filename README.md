@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kaushik Rishi</h1>
+<h1 align="center">Hi 👋, I'm Chirag Badhe</h1>
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -17,9 +17,9 @@ Hello, I’m Chirag Badhe, I'm a blockchain enthusiast. I'm fascinated with the 
 ![Node](https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 
-![Vue](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=vue)
-![Nuxt](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=nuxt)
-![tailwind](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=tailwind)
+![Vue](https://img.shields.io/badge/-Vue-brightgreen?style=for-the-badge&logo=vue)
+![Nuxt](https://img.shields.io/badge/-Nuxt-brightgreen?style=for-the-badge&logo=nuxt)
+![tailwind](https://img.shields.io/badge/-Tailwind-brightgreen?style=for-the-badge&logo=tailwind)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
