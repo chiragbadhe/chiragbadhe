@@ -34,6 +34,6 @@ Hello, I’m Chirag, I'm a blockchain enthusiast. I'm fascinated with the concep
 
 ## 📫 **Link Tree:**
 <p align="center">
-<a href="https://in.linkedin.com/in/chirag-badhe-851530186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushik-rishi" height="40" width="40" /></a>
+<a href="https://in.linkedin.com/in/chirag-badhe-851530186" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="ChiragBadhe" height="40" width="40" /></a>
 <a href="mailto:badhechirag633@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Chhirag-Badhe" height="40" width="40" /></a>
 
