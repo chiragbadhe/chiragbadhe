@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Badhe</h1>
 
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </br>
 
 ## &nbsp;💁‍♂️ **About Me**
