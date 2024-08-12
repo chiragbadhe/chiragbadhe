@@ -1,10 +1,3 @@
-
-
-<a href="https://komarev.com/ghpvc/?username=chiragbadhe">
-  <img align="right" src="https://img.shields.io/twitter/follow/chiragbadhe?
-" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -14,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=chirag+badhe">「 Google Me 」</a>
+    <a  href="https://www.google.com/search?q=chirag+badhe" target="_blank">「 Google Me 」</a>
     <br>
     「 I am a full stack web  developer from <b>India</b> 」
     <br>
@@ -23,7 +16,6 @@
 </p>
 
 <p align="center">
-
  <a href="https://www.linkedin.com/in/chirag-badhe-851530186/?originalSubdomain=in" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="chiragbadhe"/>
  </a>
@@ -37,22 +29,18 @@
   <img src="https://img.shields.io/badge/Devfolio-1DA1F2?style=for-the-badge&logoColor=white" alt="chiragbadhe"  />
   </a> 
 </p>
-<br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ch1rag@gmail.com<br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; Reach me anytime: ch1rag@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/chiragbadhe/chiragbadhe/issues)
 </p>
 
-<br/>
-<br/>
 <br/>
 
 ## Use To Code
@@ -62,8 +50,8 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -81,6 +69,7 @@
 <br/>
 
 ## Top Open Source -
+
 [![Github Society](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=github-society&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/github-society)
 [![Cricdex](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=cricdex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/cricdex)
 [![DexSync](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=DexSync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/DexSync)
@@ -112,5 +101,4 @@
   <br/>
 </a>
 
-
-![Chirag's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragbadhe&custom_title=Ch1rag%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)# chiragbadhe
+![Chirag's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragbadhe&custom_title=Ch1rag%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
