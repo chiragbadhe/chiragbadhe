@@ -35,11 +35,12 @@
 # About me
 
 <p>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
- ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: ch1rag@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/chiragbadhe/chiragbadhe/issues)
+  ✌️ &emsp; Enjoy programming and sharing knowledge <br/>
+  ❤️ &emsp; Love writing code and learning new features <br/>
+  📧 &emsp; Reach me anytime: <a href="mailto:ch1rag@gmail.com">ch1rag@gmail.com</a> <br/>
+  💬 &emsp; Ask me about anything <a href="https://github.com/chiragbadhe/chiragbadhe/issues">here</a>
 </p>
+
 
 <br/>
 
