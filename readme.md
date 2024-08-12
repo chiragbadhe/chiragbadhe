@@ -72,7 +72,7 @@
 ## Top Open Source -
 
 [![Github Society](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=github-society&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/github-society)
-[![Cricdex](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=cricdex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/cricdex)
+[![consutly-ethindia-winner](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=consutly-ethindia-winner&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/consutly-ethindia-winner)
 [![DexSync](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=DexSync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/DexSync)
 [![colorsnap](https://github-readme-stats.vercel.app/api/pin/?username=chiragbadhe&repo=colorsnap&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragbadhe/colorsnap)
 
